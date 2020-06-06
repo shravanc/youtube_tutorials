@@ -5,6 +5,7 @@
       <w>dataset</w>
       <w>pred</w>
       <w>relu</w>
+      <w>softmax</w>
     </words>
   </dictionary>
 </component>
